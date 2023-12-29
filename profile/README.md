@@ -11,7 +11,7 @@
   - [LINE](http://nav.cx/hL3RAkF)
  
 - 翠巒祭非公式
-  - [開発Blog](https://suiranfes.github.io/blog.suiranfes.blue/)
+  - [Blog](https://suiranfes.github.io/blog.suiranfes.blue/)
 
 - 高崎高校
   - [公式サイト](https://takasaki-hs.gsn.ed.jp)
