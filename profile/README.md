@@ -9,11 +9,13 @@
   - [Instagram](https://www.instagram.com/suiranfes_tktk)
   - [Twitter(X)](https://twitter.com/suiranfes)
   - [LINE](http://nav.cx/hL3RAkF)
+ 
+- 翠巒祭非公式
+  - [開発Blog](https://suiranfes.github.io/blog.suiranfes.blue/)
 
 - 高崎高校
   - [公式サイト](https://takasaki-hs.gsn.ed.jp)
 
 - 高崎高校物理部
-  - [Blog(Hugo)](https://takasaki-physics.github.io)
-  <br />(2024年の翠巒祭会計アプリケーションの開発者2人が物理部なので、物理部のBlogにアプリケーションに関する情報を載せています。)
   - [GitHub](https://github.com/takasaki-physics)
+  - [Blog](https://takasaki-physics.github.io)
