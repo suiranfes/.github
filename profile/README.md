@@ -15,7 +15,7 @@
 
 - アーカイブ(古い資料)
   - [翠巒祭ポータル](https://suiranfes.github.io/) (更新中)
-  - [65回翠巒祭実行委員会Wiki](https://suiranfes.github.io/wiki.suiranfes.com/#!index.md)
+  - [第65回翠巒祭実行委員会Wiki](https://suiranfes.github.io/wiki.suiranfes.com/#!index.md)
   - [うぇぶかのーと](https://suiranfes.github.io/note.suiranfes.com/)
 
 - 高崎高校
