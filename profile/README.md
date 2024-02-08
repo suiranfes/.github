@@ -1,5 +1,6 @@
 # SUIRANFES
 群馬県立高崎高等学校文化祭
+[![img](/img/logo.png)](https://github.com/suiranfes)
 
 ## suiranfes Links
 - 翠巒祭実行委員
