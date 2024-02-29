@@ -6,7 +6,7 @@
 - 翠巒祭実行委員
   - [公式サイト](https://suiranfes.blue)
   - [GitHub](https://github.com/suiranfes)
-  - [YouTube](https://www.youtube.com/channel/UCJDsPPGj-ZmpGr1GJ3Qp6TQ)
+  - [YouTube](https://www.youtube.com/@suiranfestivalweb)
   - [Instagram](https://www.instagram.com/suiranfes_tktk)
   - [Twitter(X)](https://twitter.com/suiranfes)
   - [LINE](http://nav.cx/hL3RAkF)
