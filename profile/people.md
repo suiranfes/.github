@@ -1,4 +1,8 @@
 # Contributors
+- 2015?
+  - The Web Team
+    - [よしひさ](https://github.com/yosihisa) (Chief)
+
 - [2017](https://github.com/orgs/suiranfes/teams/2017) - 65th
   - The Web Team
     - [aqz](https://github.com/tamaina)
