@@ -13,5 +13,3 @@
 - [高崎高校](https://takasaki-hs.gsn.ed.jp)
 - Archives (古い資料)
   - [翠巒祭ポータル](https://suiranfes.github.io)
-  - [第65回翠巒祭実行委員会Wiki](https://suiranfes.github.io/wiki.suiranfes.com)
-  - [うぇぶかのーと](https://suiranfes.github.io/note.suiranfes.com)
